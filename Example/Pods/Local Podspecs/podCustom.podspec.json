@@ -1,0 +1,22 @@
+{
+  "name": "podCustom",
+  "version": "0.1.0",
+  "summary": "A short description of podCustom.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Roytouz/podCustom",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Roytouz": "roy.dourng@pathmazing.com"
+  },
+  "source": {
+    "git": "https://github.com/Roytouz/podCustom.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "podCustom/Classes/**/*"
+}
